@@ -1,0 +1,2 @@
+11.02.2010
+- added 3 new classes for center blocks: .center-center-container, .center-left-container, .center-right-container
